@@ -1,1 +1,1 @@
-// Added for git diff demonstration
+// TODO: Add game instructions for players
